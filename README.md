@@ -9,7 +9,7 @@ This project focuses on the ELT (Extract, Load, Transform) process, which is a c
 
 Tools Used: 
 - Python: data extraction and preliminary transformation
-- SQL: data cleaning, transformation, modeling and analysis
+- SQL (PostgreSQL): data cleaning, transformation, modeling and analysis
 
 ## Project Steps:
 ### 1. Extract Data using Python and load data into SQL
