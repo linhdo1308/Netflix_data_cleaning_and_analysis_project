@@ -1,3 +1,4 @@
+/* Netflix data cleaning and analysis project */
 /* 1. Handling foreign values
 * Drop the old and create new table
 because there are foreign values and
